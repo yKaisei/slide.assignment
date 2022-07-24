@@ -1,0 +1,49 @@
+*{font-family: 'DotGothic16', sans-serif;}
+body {
+  text-align : center;
+  color: darkgoldenrod;
+  background-color: antiquewhite;
+}
+.main img {
+  width : 70%;
+ vertical-align: middle;
+}
+button {
+  margin: 7px auto;
+  font-size: 30px;
+}
+button{color: yellow;
+  background-color: darkgoldenrod;}
+
+button:hover {
+  color: #fff;
+}
+
+button {
+  -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+button{
+  border-radius: 50%;
+  line-height: 100px;
+  width: 100px;
+  height: 100px;
+  padding: 0;
+}
+
+.title{
+	font-size:55px;
+	text-align:center;
+	line-height:0.95em;
+	font-weight: 900;
+	color: goldenrod;
+	text-shadow: 0 0 0.2em rgba(0,0,0,1);
+}
+
+img {
+  border: solid 10px rgb(165, 42, 42);
+  width: fit-content;
+}
+
+
